@@ -1,2 +1,2 @@
-# CBSearch
-Some (mostly recursive) binary search implementations
+# LazeC Arrays
+An implementation of lazy arrays in C (arrays in canonical form.)
